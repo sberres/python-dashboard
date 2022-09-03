@@ -14,7 +14,12 @@ For efficiency the development is to reduce the scope to data sets and data stru
 
 The design is open in the sense that, missing parts are kept to be done „by hand“. This „open design“ is eventually enforced „by design“, even when an automatization would be possible.
 
+** ./ **
 
+* python - citing.ipynb
+  basic reference-citing queries
+  
+  
 **/rsd-scraper**
 
 
