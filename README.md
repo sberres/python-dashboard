@@ -34,3 +34,6 @@ The design is open in the sense that, missing parts are kept to be done „by ha
 * demo-read-file-by-line.py
 * demo-open-web-browser.py
 * demo-scihub-download.py
+* crawldisk.py
+  crawls the disc searching for files with a specific extension and searching within the files for certain words
+  The usage is for a given repository, whether there are certain data structures.
