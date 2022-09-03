@@ -15,17 +15,17 @@ For efficiency the development is to reduce the scope to data sets and data stru
 The design is open in the sense that, missing parts are kept to be done „by hand“. This „open design“ is eventually enforced „by design“, even when an automatization would be possible.
 
 
-* /rsd-scraper *
+**/rsd-scraper**
 
 
-demo-pdfminer.py
+* demo-pdfminer.py
 
   pdfminer seems to be the best pdf mining tool
 
 
-demo-url-scraper-rsd.py
-demo-url-to-pdf.py
-demo-open-urls.py
-demo-read-file-by-line.py
-demo-open-web-browser.py
-demo-scihub-download.py
+* demo-url-scraper-rsd.py
+* demo-url-to-pdf.py
+* demo-open-urls.py
+* demo-read-file-by-line.py
+* demo-open-web-browser.py
+* demo-scihub-download.py
